@@ -1,0 +1,351 @@
+﻿Grade 3
+
+
+MAT3970: “5.1 Compara números de 3 cifras, utilizando la recta numérica.”
+MAT3971: “2.1 Resta DU – DU = DU en forma vertical prestando de las decenas.”
+MAT3972: “ 2.2 Escribe y lee números de 3 cifras sin cero, utilizando la tabla de valores posicionales.”
+MAT3973: “2.3 Escribe y lee números de 3 cifras con cero en las decenas o unidades, utilizando la tabla de valores posicionales.”
+MAT3974: “4.3 Ubica números de 3 cifras en la recta numérica, de forma ascendente con escala de 10.”
+MAT3975: “2.1 Suma DU + DU, en forma vertical llevando a las decenas.”
+MAT3976: “4.2 Suma CDU + CDU, en forma vertical llevando a las decenas.”
+MAT3977: “3.3 Resta CDU – CDU en forma vertical prestando de las decenas.”
+MAT3978: “1.2 Determina el total de elementos de un conjunto utilizando la multiplicación: elementos × grupos.”
+MAT3979: “2.3 Utiliza los productos de la tabla del 2 para resolver situaciones en las que se tienen grupos de 2 elementos.”
+MAT3980: “5.2 Compara números de 3 cifras con distinta cantidad de centenas, utilizando la tabla de valores posicionales.”
+MAT3981: “ 2.6 Utiliza la tabla del 5 para resolver situaciones en las que se tienen grupos de 5 elementos.”
+MAT3982: “1.2 Identifica y traza triángulos y cuadriláteros.”
+MAT3983: “1.3 Identifica los elementos de triángulos y cuadriláteros.”
+MAT3984: “1.2 Identifica y traza triángulos y cuadriláteros (clasificación por forma).”
+MAT3985: “2.1 Organiza y lee datos en las tablas de frecuencia y gráficas.”
+MAT3987: “1.1 Compara el peso de objetos, utilizando una unidad de peso arbitraria.”
+MAT3988: “1.2 Lee y escribe el peso de objetos en la balanza, utilizando la libra como unidad de medida.”
+MAT3989: “1.3 Mide longitudes de objetos en centímetros utilizando la regla.”
+MAT3990: “2.2 Expresa la capacidad de recipientes, utilizando el litro y la botella como unidades de medida.”
+MAT3991: “2.1 Resuelve multiplicaciones de DU × U llevando a las decenas.”
+MAT3992: “1.3 Realiza una operación que combina la multiplicación con la suma o la resta, y no incluye un signo de agrupación (paréntesis).”
+MAT3993: “1.1 Clasifica triángulos según la medida de sus lados, en triángulos equiláteros, isósceles o escalenos.”
+MAT3994: “2.1 Recupera información de una gráfica de barras verticales.”
+MAT3995: “4.1 Encuentra el tiempo de duración de una actividad dada su hora inicial y final, o conociendo el tiempo de duración de cada una de sus etapas.”
+
+
+
+
+Grade 4
+
+
+
+
+MAT3996: “3.4 Compara números de 4 cifras a partir de su posición en la recta numérica utilizando los signos < o >.”
+MAT3997: “1.4 Escribe y lee un número de 4 cifras a partir de la cantidad de unidades de millar, centenas, decenas y unidades que lo forman, y que tiene, en al menos una de sus últimas tres cifras; cero.”
+MAT3998: “4.3 Aproxima números de 4 cifras a la centena más cercana, a partir del valor de las decenas.”
+MAT3999: “1.1 Suma en forma vertical UMCDU + UMCDU sin llevar.”
+MAT4000: “4.1 Resta en forma vertical números de cuatro cifras sin prestar.”
+MAT4001: “4.3 Realiza restas en forma vertical prestando una vez, en las que el minuendo es un número de cuatro cifras y el sustraendo es de hasta tres cifras.”
+MAT4002: “3.1 Multiplica en forma vertical DU × U sin llevar.”
+MAT4009: “2.2 Multiplica 100 o 1, 000 por números de 1 cifra”
+MAT4011: “1.6 Calcula el cociente de una división, utilizando la tabla de multiplicar del divisor; el cociente indica la cantidad en cada grupo.”
+MAT4012: “3.2 Multiplica en forma vertical DU × U llevando a las decenas.”
+MAT4013: “1.3 Realiza una operación que combina la multiplicación con la suma o la resta, y no incluye un signo de agrupación (paréntesis).”
+MAT4014: “4.2 Determina las características de un prisma rectangular y un cubo.”
+MAT4015: “2.1 Identifica rectángulos y sus características.”
+MAT4016: “1.1 Clasifica triángulos según la medida de sus lados, en triángulos equiláteros, isósceles o escalenos.”
+MAT4017: “2.4 Elabora una gráfica de barras verticales u horizontales con escala 1, a partir de la información presentada en una tabla de frecuencias.”
+MAT4018: “2.1 Recupera información de una gráfica de barras verticales.”
+MAT4019: “2.4 Elabora una gráfica de barras verticales u horizontales con escala 1, a partir de la información presentada en una tabla de frecuencias.”
+MAT4020: “1.3 Convierte longitudes dadas en centímetros a metros, y viceversa.”
+MAT4021: “2.2 Convierte la medida de capacidad de un objeto, dada en litros y mililitros a mililitros, y viceversa.”
+MAT4022: “4.1 Encuentra el tiempo de duración de una actividad dada su hora inicial y final, o conociendo el tiempo de duración de cada una de sus etapas.”
+MAT4023: “4.2 Resuelve operaciones combinadas de suma o resta y multiplicación o división, priorizando la operación dentro del paréntesis.”
+MAT4024: “3.5 Resta en forma vertical un número decimal hasta las centésimas de un número natural, y viceversa.”
+MAT4025: "3.1 Clasifica cuadriláteros por el paralelismo de sus lados en paralelogramos, trapecios y trapezoides."
+MAT4026: “3.2 Elabora e interpreta tablas de doble entrada a partir de datos representados en tres tablas de frecuencia.”
+MAT4027: “1.5 Calcula el área de figuras compuestas realizando trazos auxiliares para descomponerla en cuadrados y rectángulos.”
+
+
+
+
+Grade 5
+
+
+MAT4028: "1.1 Lee y escribe números de cinco cifras."
+MAT4029: "5.1 Suma y resta en forma vertical de números hasta de seis cifras, sin llevar y llevando en la suma, y sin prestar y prestando en la resta."
+MAT4033: "2.1 Escribe números menores que 1, 000, 000 en forma desarrollada identificando el valor relativo de sus cifras."
+MAT4034: "2.2 Determina la cantidad que resulta al multiplicar o dividir por 10, 100 o 1 000 basándose en la posición que ocupa en la tabla de valores."
+MAT4035: "3.2 Ubica cantidades menores que 1 000 000 en la recta numérica reconociendo la escala"
+MAT4038: "3.1 Plantea y resuelve el PO de una situación como multiplicación y división, utilizando un símbolo para representar el valor desconocido."
+MAT4039: "4.2 Aproxima números de cinco cifras a la decena de millar más próxima y números de seis cifras a la centena o decena de millar más próxima."
+MAT4040: "1.6 Divide CDU ÷ U = CDU en forma vertical con o sin residuo."
+MAT4041: "3.3 Multiplica en forma vertical CDU × DU, llevando."
+MAT4042: "4.2 Resuelve operaciones combinadas de suma o resta y multiplicación o división, priorizando la operación dentro del paréntesis."
+MAT4043: "4.3 Resuelve operaciones combinadas de suma o resta y multiplicación o división sin paréntesis, efectuando primero la multiplicación o división."
+MAT4044: "4.5 Resuelve operaciones aplicando la propiedad distributiva de la multiplicación sobre la suma o resta."
+MAT4045: "1.4 Divide DU ÷ U = U en forma vertical con o sin residuo, cuando las decenas del dividendo son menores que el divisor."
+MAT4046: "2.3 Suma números decimales hasta las centésimas en forma vertical, llevando y sin llevar."
+MAT4047: "3.5 Resta en forma vertical un número decimal hasta las centésimas de un número natural, y viceversa."
+MAT4048: "1.2 Utiliza el transportador para medir ángulos menores o iguales a 90°."
+MAT4049: "2.1 Identifica y clasifica triángulos porla medida de sus ángulos en acutángulos,rectángulos y obtusángulos."
+MAT4050: "3.1 Clasifica cuadriláteros por el paralelismo de sus lados en paralelogramos, trapecios y trapezoides."
+MAT4051: "3.2 Identifica y explica características de los paralelogramos."
+MAT4052: "4.1 Interpreta los datos presentados en un pictograma con figuras completas."
+MAT4053: "3.1 Elabora e interpreta tablas de doble entrada a partir de datos representados en dos tablas de frecuencia."
+MAT4054: "3.2 Elabora e interpreta tablas de doble entrada a partir de datos representados en tres tablas de frecuencia"
+MAT4055: "1.3 Calcula el área de cuadrados utilizando la fórmula lado × lado."
+MAT4056: "1.4 Calcula el área de rectángulos utilizando la fórmula largo × ancho."
+MAT4057: "1.5 Calcula el área de figuras compuestas realizando trazos auxiliares para descomponerla en cuadrados y rectángulos."
+MAT4058: "2.3 Encuentra el mínimo común múltiplo de dos números."
+MAT4059: "3.3 Encuentra el máximo común divisor de dos números."
+MAT4060: "2.1 Calcula la medida del ángulo que falta en un triángulo, a partir de la propiedad de la suma de sus ángulos internos."
+MAT4061: "1.2 Identifica cambios a partir de la inclinación de los segmentos que unen dos puntos consecutivos en gráficas de línea."
+MAT4062: "1.2 Determina el espacio físico más, o menos lleno a partir de la interpretación de la cantidad por unidad, cuando la cantidad de elementos y las áreas a comparar son diferentes."
+
+
+Grade 6
+
+
+MAT4063: "2.3 Encuentra el mínimo común múltiplo de dos números."
+MAT4064: "3.3 Encuentra el máximo común divisor de dos números."
+MAT4065: "1.3 Multiplica números decimales hasta las décimas por números naturales de 1 cifra en forma vertical."
+MAT4066: "2.2 Divide números naturales de dos o tres cifras entre números decimales hasta las décimas cuyo cociente es un número natural."
+MAT4067: "1.3 Multiplica dos números decimales hasta las décimas en forma vertical."
+MAT4070: "2.3 Divide números decimales hasta las centésimas entre números decimales hasta las décimas cuyo cociente es un número natural o decimal hasta las décimas."
+MAT4071: "2.9 Determina el cociente entero y el residuo decimal al dividir números decimales hasta las décimas entre números naturales de 1 cifra. "
+MAT4072: "4.2 Resuelve operaciones con números decimales, aplicando la propiedad distributiva de la multiplicación sobre la suma y resta."
+MAT4075: "4.3 Resuelve operaciones con números decimales, aplicando la propiedad distributiva de la división sobre la suma y resta."
+MAT4076: "2.3 Suma fracciones heterogéneas homegeneizando las fracciones y simplificando el resultado."
+MAT4077: "3.2 Resta fracciones heterogéneas; homogeneizando las fracciones y simplificando el resultado."
+MAT4079: "2.5 Suma números mixtos con parte fraccionaria heterogénea; homogeneizando las partes fraccionarias."
+MAT4080: "4.5 Escribe números fraccionarios o mixtos como números decimales."
+MAT4081: "2.10 Divide números decimales hasta las centésimas entre números naturales de 1 cifra, con cociente decimal hasta las centésimas o milésimas redondeándolo hasta las décimas o centésimas, respectivamente."
+MAT4082: "2.1 Calcula la medida del ángulo que falta en un triángulo, a partir de la propiedad de la suma de sus ángulos internos."
+MAT4083: "1.1 Clasifica prismas de acuerdo a la forma de sus bases, identificando la cantidad de elementos de cada tipo."
+MAT4084: "2.2 Calcula la medida del ángulo que falta en un cuadrilátero, a partir de la propiedad de la suma de sus ángulos internos."
+MAT4085: "1.2 Identifica polígonos regulares."
+MAT4086: "1.8 Determina si la posición de las caras en el desarrollo plano de un cubo es correcta e identifica caras opuestas en el desarrollo plano del cuerpo."
+MAT4087: "1.1 Interpreta la información presentada en gráficas de línea."
+MAT4088: "1.3 Calcula la densidad poblacional."
+MAT4089: "1.2 Identifica cambios a partir de la inclinación de los segmentos que unen dos puntos consecutivos en gráficas de línea."
+MAT4090: "1.5 Calcula el área de triángulos, a partir de la longitud de la base y la altura."
+MAT4091: "1.9 Calcula el área de cuadriláteros y triángulos."
+MAT4092: "1.2 Determina el espacio físico más, o menos lleno a partir de la interpretación de la cantidad por unidad, cuando la cantidad de elementos y las áreas a comparar son diferentes."
+MAT4216: "1.6 Calcula el resultado de la división de una fracción entre otra fracción."
+MAT4217: "2.7 Calcula el precio de un artículo que posee un porcentaje de descuento."
+MAT4218: "2.3 Encuentra el área de regiones circulares."
+MAT4219: "1.3 Calcula la longitud de una circunferencia a partir de la medida de su diámetro o radio, utilizando el valor aproximado de pi a 3.14."
+MAT4220: "1.2 Calcula la media aritmética de un conjunto de datos utilizando la fórmula."
+
+
+
+
+Grade 7
+
+
+MAT4093: "1.4 Encuentra la razón entre dos cantidades con resultado una fracción."
+MAT4094: "2.1 Encuentra datos faltantes en cantidades que son directamente proporcionales."
+MAT4095: " 2.1 Realiza sumas o restas de una fracción y un número decimal, escribiendo la fracción como número decimal o viceversa."
+MAT4096: "1.3 Multiplica fracciones propias e impropias por números naturales aplicando el algoritmo."
+MAT4097: "1.6 Calcula el resultado de la división de una fracción entre otra fracción."
+MAT4098: " 2.3 Efectúa multiplicaciones y divisiones de fracciones y números decimales, escribiendo los números decimales como fracciones"
+MAT4099: "2.1 Calcula el porcentaje que representa una cantidad, encontrando el valor de la razón y multiplicando por 100."
+MAT4100: "2.7 Calcula el precio de un artículo que posee un porcentaje de descuento."
+MAT4101: "3.5 Resuelve situaciones – problema sobre cantidades inversamente proporcionales."
+MAT4102: "3.10 Encuentra el recíproco de un número."
+MAT4103: "1.3 Calcula la razón equivalente más simple de una razón dada y la escribe en la forma a : b."
+MAT4104: "1.7 Calcula el consecuente a partir del valor de la razón y el antecedente."
+MAT4105: "2.9 Calcula el consecuente de una razón cuando se conoce el antecedente y el porcentaje que ha incrementado el antecedente respecto al consecuente."
+MAT4106: "1.3 Calcula la longitud de una circunferencia a partir de la medida de su diámetro o radio, utilizando el valor aproximado de π a 3.14."
+MAT4107: "2.2 Encuentra el área de un círculo dada la longitud de su diámetro o radio, y aplicando la fórmula radio × radio × 3.14."
+MAT4108: "1.3 Determina si una figura es simétrica respecto a un eje dado."
+MAT4109: "1.4 Calcula el volumen de un prisma rectangular usando la fórmula: largo × ancho × altura."
+MAT4110: "1.5 Calcula el volumen de cuerpos geométricos compuestos, sumando el volumen de los prismas rectangulares que lo conforman."
+MAT4111: "2.3 Encuentra el área de regiones circulares."
+MAT4112: "1.1 Traslada una figura de forma vertical u horizontal."
+MAT4113: "1.3 Calcula la longitud de una circunferencia a partir de la medida de su diámetro o radio, utilizando el valor aproximado de pi a 3.14."
+MAT4117: "1.2 Calcula la media aritmética de un conjunto de datos utilizando la fórmula."
+MAT4118: "2.1 Identifica la moda en un conjunto de datos."
+MAT4120: "2.2 Encuentra la mediana de una cantidad de datos impar."
+MAT4121: "1.4 Calcula la suma de los datos conociendo la media aritmética."
+MAT4221: "2.2 Realiza operaciones que combinan suma, resta, multiplicación y división."
+MAT4222: "3.2 Resuelve una situación del entorno aplicando una ecuación de primer grado que se resuelve utilizando más de una propiedad de una igualdad."
+MAT4223: "1.10 Traduce expresiones del lenguaje coloquial a expresiones algebraicas."
+MAT4224: "1.11 Representa una relación de proporcionalidad directa en la forma y = ax, a partir de la gráfica."
+MAT4225: "2.8 Dibuja una recta tangente a una circunferencia utilizando características de dos círculos que se intersecan."
+
+
+Grade 8 
+
+
+MAT4122: “1.4 Representa números positivos y negativos en la recta numérica.”
+MAT4123: “2.1 Realiza una resta de dos números que tienen igual o diferente signo.”
+MAT4124: “2.3 Identifica una relación de orden entre un grupo de números negativos, utilizando como criterio el valor absoluto de los números.”
+MAT4125: “1.2 Efectúa la suma de dos números no decimales ni fraccionarios con diferente signo.”
+MAT4126: “1.1 Multiplica dos números con distinto signo.”
+MAT4127: “1.5 Aplica la propiedad conmutativa y asociativa para realizar el cálculo de una suma.”
+MAT4128: “2.2 Realiza operaciones que combinan suma, resta, multiplicación y división.”
+MAT4129: “1.10 Traduce expresiones del lenguaje coloquial a expresiones algebraicas.”
+MAT4130: “1.15 Encuentra el valor numérico de expresiones algebraicas con una variable sustituyendo valores negativos o fracciones.”
+MAT4131: “2.1 Identifica términos y coeficientes de una expresión algebraica.”
+MAT4132: “2.3 Resuelve una ecuación de primer grado sumando la misma cantidad en ambos miembros.”
+MAT4133: “2.7 Resuelve una ecuación de primer grado dividiendo por la misma cantidad en ambos miembros.”
+MAT4134: “2.5 Resuelve una ecuación de primer grado realizando la transposición de términos.”
+MAT4135: “2.11 Resuelve una ecuación de primer grado que incluye signos de agrupación.”
+MAT4136: “3.2 Resuelve una situación del entorno aplicando una ecuación de primer grado que se resuelve utilizando más de una propiedad de una igualdad.”
+MAT4137: “2.13 Resuelve una ecuación de primer grado con coeficientes y términos decimales.”
+MAT4138: “2.8 Reduce una expresión algebraica identificando términos semejantes.”
+MAT4139: “1.2 Identifica si la relación de dos cantidades es de proporcionalidad directa expresándola en la forma y = ax e indicando la constante.”
+MAT4140: “1.11 Representa una relación de proporcionalidad directa en la forma y = ax, a partir de la gráfica.”
+MAT4141: “2.1 Identifica si la relación de dos cantidades es de proporcionalidad inversa, expresándola en la forma y = a/x e indicando la constante.”
+MAT4142: “1.3 Traslada figuras mediante una dirección y un sentido de paralelismo.”
+MAT4143: “1.5 Rota figuras respecto a un punto utilizando un ángulo determinado.”
+MAT4144: “2.7 Dibuja la bisectriz de un ángulo aplicando las características de dos círculos que se intersecan.”
+MAT4145: “2.8 Dibuja una recta tangente a una circunferencia utilizando características de dos círculos que se intersecan.”
+MAT4146: “1.8 Lee y ubica un par ordenado en el plano cartesiano.”
+MAT4147: “1.5 Realiza multiplicaciones de polinomios por un número.”
+MAT4148: “1.3 Resuelve una situación mediante una ecuación o un sistema de ecuaciones de primer grado con dos incógnitas.”
+MAT4149: “3.11 Identifica la relación entre los elementos de la tabla, la ecuación y la gráfica de la función lineal.”
+MAT4150: “2.4 Identifica la relación entre ángulos internos, externos, alternos internos y alternos externos, entre dos rectas paralelas.”
+MAT4151: “2.2 Calcula la media aritmética de una serie de datos agrupados.”
+
+
+
+
+Grade 9
+
+
+MAT4153: "1.3 Reduce términos semejantes de polinomios."
+MAT4154: "1.12 Utiliza la sustitución de variables para determinar el valor numérico de un polinomio."
+MAT4156: "1.9 Realiza multiplicaciones de monomios con monomios."
+MAT4157: "1.3 Resuelve una situación mediante una ecuación o un sistema de ecuaciones de primer grado con dos incógnitas."
+MAT4158: "1.6 Aplica el método de reducción por adición para resolver sistemas de ecuaciones con dos incógnitas, en las que el valor absoluto de los coeficientes de una de ellas es igual, pero con distinto signo."
+MAT4159: "1.4 Efectúa sumas y restas de polinomios."
+MAT4160: "1.4 Efectúa sumas y restas de polinomios."
+MAT4161: "1.5 Realiza multiplicaciones de polinomios por un número."
+MAT4162: "1.8  Resuelve un sistema de ecuaciones con dos incógnitas, en las que el valor absoluto de los coeficientes es diferente, mediante el método de reducción."
+MAT4164: "1.10 Resuelve un sistema de ecuaciones con dos incógnitas mediante el método de sustitución."
+MAT4163: "1.15 Resuelve un sistema de ecuaciones con dos incógnitas cuya forma es 𝑎𝑥 + 𝑏𝑦 + 𝑐 = 0."
+MAT4165: "1.2 Identifica los elementos y características de los polinomios, aplicando la definición."
+MAT4166: "1.13 Identifica la relación entre los elementos de la tabla, la ecuación y la gráfica de la función lineal."
+MAT4167: "1.6 Resuelve situaciones mediante el análisis de la razón y comparación con la ecuación de la función."
+MAT4168: "1.14 Traza el gráfico de la función y = ax + b, dado el valor de a y b."
+MAT4169: "1.16 Determina los valores de y, cuando se delimitan los valores de x."
+MAT4170: "1.3 Deduce y utiliza la característica que posee la bisectriz de un triángulo isósceles"
+MAT4171: "1.1 Determina la suma de los ángulos internos de un polígono por triangulación."
+MAT4172: "2.4 Identifica la relación entre ángulos internos, externos, alternos internos y alternos externos, entre dos rectas paralelas."
+MAT4173: "1.3 Determina si dos triángulos son congruentes a partir de las medidas de los lados de ambos triángulos (criterio Lado, Lado, Lado)."
+MAT4174: "1.1 Caracteriza los triángulos isósceles."
+MAT4175: "2.5 Utiliza la relación de los ángulos entre paralelas, para demostrar el teorema de los ángulos internos de un triángulo."
+MAT4176: "1.2 Organiza datos en tablas de distribución de frecuencias."
+MAT4177: "1.3 Calcula el punto medio de una serie de datos organizados en una tabla e interpreta los resultados."
+MAT4178: "2.2 Calcula la media aritmética de una serie de datos agrupados."
+MAT4262: "2.3 Resuelve problemas correspondientes a la ecuación cuadrática."
+MAT4263: "2.8 Suma y resta raíces cuadradas semejantes."
+MAT4264: "1.7 Identifica las características de la función 𝑦 = 𝑎𝑥² y de la función 𝑦 = –𝑎𝑥² a partir de los valores de 𝑎."
+MAT4265: "1.4 Determina las medidas de ángulos inscritos cuyo ángulo central está al interior del ángulo inscrito."
+MAT4266: "1.3 Utiliza la varianza para datos no agrupados para justificar la dispersión de los datos de la serie."
+MAT4153: "1.3 Reduce términos semejantes de polinomios."
+MAT4154: "1.12 Utiliza la sustitución de variables para determinar el valor numérico de un polinomio."
+MAT4156: "1.9 Realiza multiplicaciones de monomios con monomios."
+MAT4157: "1.3 Resuelve una situación mediante una ecuación o un sistema de ecuaciones de primer grado con dos incógnitas."
+MAT4158: "1.6 Aplica el método de reducción por adición para resolver sistemas de ecuaciones con dos incógnitas, en las que el valor absoluto de los coeficientes de una de ellas es igual, pero con distinto signo."
+MAT4159: "1.4 Efectúa sumas y restas de polinomios."
+MAT4160: "1.4 Efectúa sumas y restas de polinomios."
+MAT4161: "1.5 Realiza multiplicaciones de polinomios por un número."
+MAT4162: "1.8  Resuelve un sistema de ecuaciones con dos incógnitas, en las que el valor absoluto de los coeficientes es diferente, mediante el método de reducción."
+MAT4164: "1.10 Resuelve un sistema de ecuaciones con dos incógnitas mediante el método de sustitución."
+MAT4163: "1.15 Resuelve un sistema de ecuaciones con dos incógnitas cuya forma es 𝑎𝑥 + 𝑏𝑦 + 𝑐 = 0."
+MAT4165: "1.2 Identifica los elementos y características de los polinomios, aplicando la definición."
+MAT4166: "1.13 Identifica la relación entre los elementos de la tabla, la ecuación y la gráfica de la función lineal."
+MAT4167: "1.6 Resuelve situaciones mediante el análisis de la razón y comparación con la ecuación de la función."
+MAT4168: "1.14 Traza el gráfico de la función y = ax + b, dado el valor de a y b."
+MAT4169: "1.16 Determina los valores de y, cuando se delimitan los valores de x."
+MAT4170: "1.3 Deduce y utiliza la característica que posee la bisectriz de un triángulo isósceles"
+MAT4171: "1.1 Determina la suma de los ángulos internos de un polígono por triangulación."
+MAT4172: "2.4 Identifica la relación entre ángulos internos, externos, alternos internos y alternos externos, entre dos rectas paralelas."
+MAT4173: "1.3 Determina si dos triángulos son congruentes a partir de las medidas de los lados de ambos triángulos (criterio Lado, Lado, Lado)."
+MAT4174: "1.1 Caracteriza los triángulos isósceles."
+MAT4175: "2.5 Utiliza la relación de los ángulos entre paralelas, para demostrar el teorema de los ángulos internos de un triángulo."
+MAT4176: "1.2 Organiza datos en tablas de distribución de frecuencias."
+MAT4177: "1.3 Calcula el punto medio de una serie de datos organizados en una tabla e interpreta los resultados."
+MAT4178: "2.2 Calcula la media aritmética de una serie de datos agrupados."
+MAT4262: "2.3 Resuelve problemas correspondientes a la ecuación cuadrática."
+MAT4263: "2.8 Suma y resta raíces cuadradas semejantes."
+MAT4264: "1.7 Identifica las características de la función 𝑦 = 𝑎𝑥² y de la función 𝑦 = –𝑎𝑥² a partir de los valores de 𝑎."
+MAT4265: "1.4 Determina las medidas de ángulos inscritos cuyo ángulo central está al interior del ángulo inscrito."
+MAT4266: "1.3 Utiliza la varianza para datos no agrupados para justificar la dispersión de los datos de la serie."
+
+
+
+
+
+
+Grade 10
+
+
+MAT4179: "2.1 Determina productos de la forma (𝑥 + 𝑎)(𝑥 + 𝑏)."
+MAT4180: "2.9 Resuelve problemas utilizando productos notables."
+MAT4181: "2.4 Desarrolla la suma por la diferencia de binomios."
+MAT4182: "3.10 Factoriza polinomios extrayendo factor común y utilizando productos notables."
+MAT4185: "3.3 Factoriza polinomios de la forma 𝑥² + (𝑎 + 𝑏)𝑥 + 𝑎𝑏 en el producto notable (𝑥 + 𝑎)(𝑥 + 𝑏)."
+MAT4186: "2.5 Simplifica raíces cuadradas inexactas."
+MAT4187: "2.8 Suma y resta raíces cuadradas semejantes."
+MAT4188: "2.7 Racionaliza el denominador de una fracción."
+MAT4189: "2.3 Resuelve problemas correspondientes a la ecuación cuadrática."
+MAT4190: "1.4 Resuelve ecuaciones de la forma 𝑎𝑥² = 𝑐."
+MAT4191: "2.3 Resuelve problemas correspondientes a la ecuación cuadrática."
+MAT4194: "1.7 Identifica las características de la función 𝑦 = 𝑎𝑥² y de la función 𝑦 = –𝑎𝑥² a partir de los valores de 𝑎."
+MAT4195: "2.1 Grafica la función 𝑦 = 𝑎𝑥² + 𝑐, con 𝑐 > 0 realizando desplazamientos verticales en 𝑐 unidades, a partir de la gráfica 𝑦 = 𝑎𝑥²."
+MAT4196: "2.3 Calcula los valores de 𝑎 y 𝑐 en 𝑦 = 𝑎𝑥² + 𝑐, dadas las condiciones iniciales de la gráfica de la función."
+MAT4197: "1.8 Resuelve ecuaciones cuadráticas de la forma: (𝑥 + 𝑎)(𝑥 + 𝑏) = 0."
+MAT4202: "1.3 Reduce y amplía cuadriláteros para dibujar figuras semejantes utilizando cuadrícula."
+MAT4198: "1.4 Identifica ángulos correspondientes entre polígonos y, con base a ello, determina polígonos semejantes."
+MAT4199: "3.4 Calcula las longitudes de segmentos usando el teorema sobre segmentos paralelos en un triángulo."
+MAT4203: "1.5 Encuentra la longitud de un cateto desconocido, utilizando el teorema de Pitágoras."
+MAT4200: "2.7 Aplica el teorema de Pitágoras a situaciones reales para calcular una distancia desconocida, realizando cálculos hasta un decimal."
+MAT4204: "1.4 Determina las medidas de ángulos inscritos cuyo ángulo central está al interior del ángulo inscrito."
+MAT4205: "1.7 Determina la medida de ángulos inscritos que subtienden arcos de igual medida."
+MAT4207: "1.1 Identifica la dispersión de distribuciones de datos, utilizando el rango para datos no agrupados."
+MAT4208: "1.3 Utiliza la varianza para datos no agrupados para justificar la dispersión de los datos de la serie."
+MAT4209: "1.4 Justifica la dispersión de una serie utilizando la desviación típica."
+MAT4215: "2.1 Expresa situaciones de la vida cotidiana utilizando desigualdades lineales de una variable."
+MAT4211: "2.1 Realiza la división de un polinomio por un monomio multiplicando por el recíproco del divisor."
+MAT4212: "1.2 Utiliza la prueba de la recta vertical para identificar gráficas de funciones."
+MAT4213: "2.1 Determina y analiza los cuartiles de una serie de datos simples."
+MAT4214: "2.5 Calcula el residuo de la división de un polinomio por un binomio de la forma 𝑥 – 𝑎 utilizando el teorema del residuo."
+
+
+
+
+
+
+Grade 11
+
+
+MAT4226: "1.3 Encuentra el dominio y rango de funciones lineales y de la forma 𝑓(𝑥) = 𝑎𝑥² utilizando la ecuación de la función."
+MAT4227: "2.2 Grafica y encuentra el dominio y rango de la función 𝑔(𝑥) = 𝑎(𝑥 – ℎ)² para ℎ > 0 usando desplazamientos horizontales de 𝑓(𝑥) = 𝑎𝑥²."
+MAT4228: "2.1 Expresa situaciones de la vida cotidiana utilizando desigualdades lineales de una variable."
+MAT4229: "3.7 Resuelve desigualdades de la forma 𝑓(𝑥) ≥ 0, donde 𝑓 es una función cuadráti ca cuya parábola es abierta hacia arriba y corta al eje 𝑥 en dos puntos."
+MAT4230: "3.3 Utiliza el valor máximo de una función cuadrática para resolver problemas de la vida cotidiana."
+MAT4231: "1.4 Racionaliza fracciones con denominador √𝑎 ± √𝑏 o 𝑎 ± √𝑏."
+MAT4232: "2.5 Calcula el residuo de la división de un polinomio por un binomio de la forma 𝑥 – 𝑎 utilizando el teorema del residuo."
+MAT4233: "1.10 Factoriza trinomios de la forma 𝑥² + (𝑎 + 𝑏)𝑥 + 𝑎𝑏 en el producto notable (𝑥 + 𝑎)(𝑥 + 𝑏)."
+MAT4234: "2.1 Realiza la división de un polinomio por un monomio multiplicando por el recíproco del divisor."
+MAT4235: "2.2 Resuelve desigualdades lineales de la forma 𝑥 + 𝑏 ≥ 𝑐 o 𝑥 + 𝑏 ≤ 𝑐."
+MAT4236: "2.1 Elabora la gráfica y encuentra el dominio y el rango de las funciones 𝑔(𝑥) = 𝑎𝑥 + 𝑏 o 𝑓(𝑥) = 𝑎𝑥² + 𝑐, usando desplazamientos verticales."
+MAT4237: "3.4 Utiliza el valor mínimo de una función cuadrática para resolver problemas de la vida cotidiana."
+MAT4238: "2.9 Encuentra la ecuación de una función cuadrática que satisface determinadas condiciones."
+MAT4239: "2.5 Grafica y encuentra el dominio y el rango de la función 𝑔(𝑥) = 𝑎(𝑥 – ℎ)² + 𝑘 usando desplazamientos horizontales y verticales de 𝑓(𝑥) = 𝑎𝑥²."
+MAT4240: "3.5 Encuentra las coordenadas del punto de intersección de la gráfica de una función cuadrática con el eje y usando la ecuación de la función."
+MAT4241: "1.2 Utiliza la prueba de la recta vertical para identificar gráficas de funciones."
+MAT4242: "3.5 Encuentra la medida de un lado de un triángulo si se conocen las medidas de dos lados y el ángulo comprendido entre ellos, aplicando la ley del coseno."
+MAT4243: "1.1 Establece las razones trigonométricas de un ángulo agudo de un triángulo rectángulo en términos de la hipotenusa, el lado opuesto y adyacente a dicho ángulo."
+MAT4246: "2.9 Calcula las razones trigonométricas de cualquier ángulo utilizando la identidad pitagórica si se conocen algunos datos de este."
+MAT4251: "1.4 Determina las razones trigonométricas de los ángulos de 30°, 45° y 60°."
+MAT4252: "3.2 Calcula la medida de un lado de un triángulo conocidas las medidas de dos ángulos y un lado opuesto a uno de estos ángulos, aplicando la ley de los senos."
+MAT4253: "2.5 Determina las razones trigonométricas de un ángulo definido por la parte positiva del eje 𝑥 y OP, donde P es un punto del plano cartesiano."
+MAT4254: "2.1 Determina y analiza los cuartiles de una serie de datos simple."
+MAT4255: "1.7 Calcula las medidas de dispersión para una muestra y una población en datos agrupados."
+MAT4256: "2.2 Elabora y analiza el diagrama de caja y bigotes de una serie de datos simples."
+MAT4257: "1.7 Determina las coordenadas del vértice y traza la gráfica de una parábola a partir de su ecuación general."
+MAT4258: "2.3 Determina el centro y el radio de una circunferencia a partir de su ecuación general y traza su gráfica en el plano cartesiano."
+MAT4259: "1.4 Establece el término general de una sucesión aritmética y lo utiliza para calcular algunos términos de esta."
+MAT4260: "2.5 Utiliza las permutaciones para resolver problemas sobre conteo."
+MAT4261: "1.2 Calcula la probabilidad teórica para situaciones específicas."

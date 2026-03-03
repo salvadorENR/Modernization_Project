@@ -1,0 +1,113 @@
+=================================================================
+ REPORTE DE COMPLETITUD Y FILTRADO 100% (ANÁLISIS INDEPENDIENTE)
+=================================================================
+
+-> Procesando Grado 3...
+ [MATEMÁTICA]
+   - Total de ítems en la prueba : 25
+   - Estudiantes Registrados     : 12,513
+   - Completaron el 100%         : 12,258 (98.0%)
+
+ [LENGUA]
+   - Total de ítems en la prueba : 25
+   - Estudiantes Registrados     : 11,826
+   - Completaron el 100%         : 11,204 (94.7%)
+
+-> Procesando Grado 4...
+ [MATEMÁTICA]
+   - Total de ítems en la prueba : 25
+   - Estudiantes Registrados     : 14,627
+   - Completaron el 100%         : 14,364 (98.2%)
+
+ [LENGUA]
+   - Total de ítems en la prueba : 25
+   - Estudiantes Registrados     : 14,065
+   - Completaron el 100%         : 13,461 (95.7%)
+
+-> Procesando Grado 5...
+ [MATEMÁTICA]
+   - Total de ítems en la prueba : 30
+   - Estudiantes Registrados     : 14,219
+   - Completaron el 100%         : 14,029 (98.7%)
+
+ [LENGUA]
+   - Total de ítems en la prueba : 30
+   - Estudiantes Registrados     : 13,946
+   - Completaron el 100%         : 13,597 (97.5%)
+
+-> Procesando Grado 6...
+ [MATEMÁTICA]
+   - Total de ítems en la prueba : 30
+   - Estudiantes Registrados     : 14,038
+   - Completaron el 100%         : 13,832 (98.5%)
+
+ [LENGUA]
+   - Total de ítems en la prueba : 30
+   - Estudiantes Registrados     : 13,804
+   - Completaron el 100%         : 13,517 (97.9%)
+
+-> Procesando Grado 7...
+ [MATEMÁTICA]
+   - Total de ítems en la prueba : 30
+   - Estudiantes Registrados     : 14,693
+   - Completaron el 100%         : 14,471 (98.5%)
+
+ [LENGUA]
+   - Total de ítems en la prueba : 30
+   - Estudiantes Registrados     : 14,449
+   - Completaron el 100%         : 14,134 (97.8%)
+
+-> Procesando Grado 8...
+ [MATEMÁTICA]
+   - Total de ítems en la prueba : 30
+   - Estudiantes Registrados     : 14,358
+   - Completaron el 100%         : 14,144 (98.5%)
+
+ [LENGUA]
+   - Total de ítems en la prueba : 30
+   - Estudiantes Registrados     : 14,179
+   - Completaron el 100%         : 13,946 (98.4%)
+
+-> Procesando Grado 9...
+ [MATEMÁTICA]
+   - Total de ítems en la prueba : 30
+   - Estudiantes Registrados     : 13,179
+   - Completaron el 100%         : 12,929 (98.1%)
+
+ [LENGUA]
+   - Total de ítems en la prueba : 30
+   - Estudiantes Registrados     : 13,050
+   - Completaron el 100%         : 12,929 (99.1%)
+
+-> Procesando Grado 10...
+ [MATEMÁTICA]
+   - Total de ítems en la prueba : 30
+   - Estudiantes Registrados     : 11,753
+   - Completaron el 100%         : 11,559 (98.3%)
+
+ [LENGUA]
+   - Total de ítems en la prueba : 30
+   - Estudiantes Registrados     : 11,612
+   - Completaron el 100%         : 11,462 (98.7%)
+
+-> Procesando Grado 11...
+ [MATEMÁTICA]
+   - Total de ítems en la prueba : 30
+   - Estudiantes Registrados     : 9,752
+   - Completaron el 100%         : 9,612 (98.6%)
+
+ [LENGUA]
+   - Total de ítems en la prueba : 30
+   - Estudiantes Registrados     : 9,696
+   - Completaron el 100%         : 9,607 (99.1%)
+
+=================================================================
+ RESUMEN GLOBAL DE PARTICIPACIÓN (TODOS LOS GRADOS)
+=================================================================
+ MATEMÁTICA:
+   - Gran Total Estudiantes Registrados : 119,132
+   - Gran Total con Prueba al 100%      : 117,198 (98.4%)
+ LENGUA:
+   - Gran Total Estudiantes Registrados : 116,627
+   - Gran Total con Prueba al 100%      : 113,857 (97.6%)
+=================================================================

@@ -1,0 +1,929 @@
+=================================================================
+ RESUMEN GLOBAL DE PARTICIPACIÓN (TODOS LOS GRADOS)
+=================================================================
+ MATEMÁTICA:
+   - Gran Total Registrados : 119,132
+   - Completaron al 100%    : 117,198 (98.4%)
+ LENGUA:
+   - Gran Total Registrados : 116,627
+   - Completaron al 100%    : 113,857 (97.6%)
+
+=================================================================
+ RESULTADOS DETALLADOS POR GRADO
+=================================================================
+
+############################################################
+ GRADO 3
+############################################################
+
+--- LENGUA ---
+Participación: 11826 registrados | 11204 completos (94.7%)
+Total de ítems: 25
+
+1. ESTADÍSTICAS DESCRIPTIVAS:
+Materia N (100%)  Media  Mediana   DS  Mínimo  Máximo  Simetría  Curtosis
+ Lengua   11,204   11.4     11.0 4.11     0.0    25.0      0.43     -0.22
+
+2. DISTRIBUCIÓN POR QUINTILES:
+Materia  Quintil       Rango Número Estudiantes Porcentaje (%)
+ Lengua        1   0.0 - 8.0              2,241          20.0%
+ Lengua        2  8.0 - 10.0              2,241          20.0%
+ Lengua        3 10.0 - 12.0              2,240          20.0%
+ Lengua        4 12.0 - 15.0              2,241          20.0%
+ Lengua        5 15.0 - 25.0              2,241          20.0%
+
+3. PORCENTAJE DE ACIERTOS POR ÍTEM (%):
+   Item   Pct
+LEC3152 48.24
+LEC3153 39.00
+LEC3154 25.17
+LEC3155 63.36
+LEC3156 63.32
+LEC3157 36.71
+LEC3158 39.38
+LEC3159 58.28
+LEC3160 35.60
+LEC3161 43.99
+LEC3162 42.37
+LEC3163 45.14
+LEC3164 63.38
+LEC3165 63.78
+LEC3166 44.86
+LEC3167 56.23
+LEC3168 20.02
+LEC3169 40.70
+LEC3170 34.93
+LEC3171 38.07
+LEC3172 46.40
+LEC3173 52.85
+LEC3174 53.68
+LEC3175 41.18
+LEC3176 43.04
+
+
+--- MATEMÁTICA ---
+Participación: 12513 registrados | 12258 completos (98.0%)
+Total de ítems: 25
+
+1. ESTADÍSTICAS DESCRIPTIVAS:
+   Materia N (100%)  Media  Mediana   DS  Mínimo  Máximo  Simetría  Curtosis
+Matemática   12,258  13.57     13.0 4.33     0.0    25.0      0.08     -0.44
+
+2. DISTRIBUCIÓN POR QUINTILES:
+   Materia  Quintil       Rango Número Estudiantes Porcentaje (%)
+Matemática        1  0.0 - 10.0              2,452          20.0%
+Matemática        2 10.0 - 12.0              2,451          20.0%
+Matemática        3 12.0 - 15.0              2,452          20.0%
+Matemática        4 15.0 - 17.0              2,451          20.0%
+Matemática        5 17.0 - 25.0              2,452          20.0%
+
+3. PORCENTAJE DE ACIERTOS POR ÍTEM (%):
+   Item   Pct
+MAT3970 58.50
+MAT3971 38.25
+MAT3972 56.77
+MAT3973 45.28
+MAT3974 80.76
+MAT3975 50.38
+MAT3976 41.67
+MAT3977 41.46
+MAT3978 37.28
+MAT3979 66.96
+MAT3980 38.91
+MAT3981 70.27
+MAT3982 56.77
+MAT3983 70.24
+MAT3984 56.04
+MAT3985 42.87
+MAT3987 55.30
+MAT3988 71.30
+MAT3989 73.15
+MAT3990 78.99
+MAT3991 25.63
+MAT3992 24.95
+MAT3993 40.30
+MAT3994 80.89
+MAT3995 54.50
+
+
+############################################################
+ GRADO 4
+############################################################
+
+--- LENGUA ---
+Participación: 14065 registrados | 13461 completos (95.7%)
+Total de ítems: 25
+
+1. ESTADÍSTICAS DESCRIPTIVAS:
+Materia N (100%)  Media  Mediana   DS  Mínimo  Máximo  Simetría  Curtosis
+ Lengua   13,461  11.98     11.0 4.51     0.0    25.0      0.46     -0.49
+
+2. DISTRIBUCIÓN POR QUINTILES:
+Materia  Quintil       Rango Número Estudiantes Porcentaje (%)
+ Lengua        1   0.0 - 8.0              2,693          20.0%
+ Lengua        2  8.0 - 10.0              2,692          20.0%
+ Lengua        3 10.0 - 13.0              2,692          20.0%
+ Lengua        4 13.0 - 16.0              2,692          20.0%
+ Lengua        5 16.0 - 25.0              2,692          20.0%
+
+3. PORCENTAJE DE ACIERTOS POR ÍTEM (%):
+   Item   Pct
+LEC3177 46.94
+LEC3178 42.32
+LEC3179 57.89
+LEC3180 37.09
+LEC3181 58.73
+LEC3182 49.94
+LEC3183 55.12
+LEC3184 43.18
+LEC3185 52.98
+LEC3186 41.58
+LEC3188 51.86
+LEC3189 56.67
+LEC3190 50.72
+LEC3191 55.23
+LEC3192 57.86
+LEC3193 24.28
+LEC3194 56.53
+LEC3195 46.93
+LEC3196 43.53
+LEC3197 48.69
+LEC3198 30.17
+LEC3199 61.37
+LEC3200 41.51
+LEC3206 42.40
+LEC3207 44.72
+
+
+--- MATEMÁTICA ---
+Participación: 14627 registrados | 14364 completos (98.2%)
+Total de ítems: 25
+
+1. ESTADÍSTICAS DESCRIPTIVAS:
+   Materia N (100%)  Media  Mediana   DS  Mínimo  Máximo  Simetría  Curtosis
+Matemática   14,364  11.36     11.0 4.04     0.0    25.0      0.45     -0.24
+
+2. DISTRIBUCIÓN POR QUINTILES:
+   Materia  Quintil       Rango Número Estudiantes Porcentaje (%)
+Matemática        1   0.0 - 8.0              2,873          20.0%
+Matemática        2  8.0 - 10.0              2,873          20.0%
+Matemática        3 10.0 - 12.0              2,872          20.0%
+Matemática        4 12.0 - 15.0              2,873          20.0%
+Matemática        5 15.0 - 25.0              2,873          20.0%
+
+3. PORCENTAJE DE ACIERTOS POR ÍTEM (%):
+   Item   Pct
+MAT3996 46.55
+MAT3997 51.01
+MAT3998 27.64
+MAT3999 45.30
+MAT4000 48.52
+MAT4001 41.65
+MAT4002 35.80
+MAT4009 78.61
+MAT4011 57.43
+MAT4012 41.06
+MAT4013 26.30
+MAT4014 61.10
+MAT4015 60.58
+MAT4016 44.40
+MAT4017 48.84
+MAT4018 84.31
+MAT4019 48.09
+MAT4020 41.66
+MAT4021 39.09
+MAT4022 62.44
+MAT4023 38.32
+MAT4024 29.83
+MAT4025 23.09
+MAT4026 38.58
+MAT4027 15.39
+
+
+############################################################
+ GRADO 5
+############################################################
+
+--- LENGUA ---
+Participación: 13946 registrados | 13597 completos (97.5%)
+Total de ítems: 30
+
+1. ESTADÍSTICAS DESCRIPTIVAS:
+Materia N (100%)  Media  Mediana   DS  Mínimo  Máximo  Simetría  Curtosis
+ Lengua   13,597  11.53     10.0 5.51     0.0    30.0      0.87      0.12
+
+2. DISTRIBUCIÓN POR QUINTILES:
+Materia  Quintil       Rango Número Estudiantes Porcentaje (%)
+ Lengua        1   0.0 - 7.0              2,720          20.0%
+ Lengua        2   7.0 - 9.0              2,719          20.0%
+ Lengua        3  9.0 - 11.0              2,719          20.0%
+ Lengua        4 11.0 - 16.0              2,719          20.0%
+ Lengua        5 16.0 - 30.0              2,720          20.0%
+
+3. PORCENTAJE DE ACIERTOS POR ÍTEM (%):
+   Item   Pct
+LEC3208 33.97
+LEC3209 23.29
+LEC3210 30.74
+LEC3211 41.29
+LEC3212 52.60
+LEC3213 37.43
+LEC3214 40.08
+LEC3215 26.41
+LEC3217 38.67
+LEC3219 46.72
+LEC3220 37.06
+LEC3221 28.49
+LEC3222 39.83
+LEC3223 37.40
+LEC3224 43.94
+LEC3225 47.45
+LEC3226 34.35
+LEC3227 30.96
+LEC3228 40.10
+LEC3229 37.66
+LEC3230 47.35
+LEC3231 30.25
+LEC3232 39.53
+LEC3233 38.10
+LEC3234 37.96
+LEC3235 37.79
+LEC3236 36.79
+LEC3237 61.20
+LEC3238 38.32
+LEC3239 37.72
+
+
+--- MATEMÁTICA ---
+Participación: 14219 registrados | 14029 completos (98.7%)
+Total de ítems: 30
+
+1. ESTADÍSTICAS DESCRIPTIVAS:
+   Materia N (100%)  Media  Mediana  DS  Mínimo  Máximo  Simetría  Curtosis
+Matemática   14,029  10.56     10.0 4.2     0.0    30.0      0.91      1.29
+
+2. DISTRIBUCIÓN POR QUINTILES:
+   Materia  Quintil       Rango Número Estudiantes Porcentaje (%)
+Matemática        1   0.0 - 7.0              2,806          20.0%
+Matemática        2   7.0 - 9.0              2,806          20.0%
+Matemática        3  9.0 - 11.0              2,805          20.0%
+Matemática        4 11.0 - 14.0              2,806          20.0%
+Matemática        5 14.0 - 30.0              2,806          20.0%
+
+3. PORCENTAJE DE ACIERTOS POR ÍTEM (%):
+   Item   Pct
+MAT4028 45.73
+MAT4029 51.68
+MAT4033 43.42
+MAT4034 30.81
+MAT4035 58.54
+MAT4038 57.47
+MAT4039 21.33
+MAT4040 29.74
+MAT4041 38.94
+MAT4042 51.58
+MAT4043 31.21
+MAT4044 20.74
+MAT4045 39.30
+MAT4046 38.33
+MAT4047 36.31
+MAT4048 25.36
+MAT4049 24.09
+MAT4050 24.39
+MAT4051 32.44
+MAT4052 50.58
+MAT4053 58.85
+MAT4054 44.66
+MAT4055 13.02
+MAT4056 20.86
+MAT4057 20.59
+MAT4058 22.26
+MAT4059 39.64
+MAT4060 23.89
+MAT4061 31.13
+MAT4062 28.61
+
+
+############################################################
+ GRADO 6
+############################################################
+
+--- LENGUA ---
+Participación: 13804 registrados | 13517 completos (97.9%)
+Total de ítems: 30
+
+1. ESTADÍSTICAS DESCRIPTIVAS:
+Materia N (100%)  Media  Mediana   DS  Mínimo  Máximo  Simetría  Curtosis
+ Lengua   13,517  12.88     12.0 5.98     0.0    29.0      0.55     -0.61
+
+2. DISTRIBUCIÓN POR QUINTILES:
+Materia  Quintil       Rango Número Estudiantes Porcentaje (%)
+ Lengua        1   0.0 - 7.0              2,704          20.0%
+ Lengua        2  7.0 - 10.0              2,703          20.0%
+ Lengua        3 10.0 - 13.0              2,703          20.0%
+ Lengua        4 13.0 - 19.0              2,703          20.0%
+ Lengua        5 19.0 - 29.0              2,704          20.0%
+
+3. PORCENTAJE DE ACIERTOS POR ÍTEM (%):
+   Item   Pct
+LEC3240 37.12
+LEC3241 47.00
+LEC3242 45.55
+LEC3243 46.91
+LEC3244 35.77
+LEC3245 37.37
+LEC3246 48.63
+LEC3247 54.30
+LEC3248 40.94
+LEC3249 46.23
+LEC3250 49.45
+LEC3251 46.63
+LEC3252 59.55
+LEC3253 49.83
+LEC3254 37.23
+LEC3255 47.55
+LEC3256 48.38
+LEC3257 39.58
+LEC3258 54.07
+LEC3259 48.26
+LEC3260 49.65
+LEC3261 45.94
+LEC3262 26.96
+LEC3263 54.42
+LEC3264 32.97
+LEC3265 32.22
+LEC3266 43.01
+LEC3267 19.46
+LEC3268 30.67
+LEC3269 31.90
+
+
+--- MATEMÁTICA ---
+Participación: 14038 registrados | 13832 completos (98.5%)
+Total de ítems: 30
+
+1. ESTADÍSTICAS DESCRIPTIVAS:
+   Materia N (100%)  Media  Mediana   DS  Mínimo  Máximo  Simetría  Curtosis
+Matemática   13,832  11.35     11.0 4.18     0.0    30.0      1.14      2.13
+
+2. DISTRIBUCIÓN POR QUINTILES:
+   Materia  Quintil       Rango Número Estudiantes Porcentaje (%)
+Matemática        1   0.0 - 8.0              2,767          20.0%
+Matemática        2  8.0 - 10.0              2,766          20.0%
+Matemática        3 10.0 - 12.0              2,766          20.0%
+Matemática        4 12.0 - 14.0              2,766          20.0%
+Matemática        5 14.0 - 30.0              2,767          20.0%
+
+3. PORCENTAJE DE ACIERTOS POR ÍTEM (%):
+   Item   Pct
+MAT4063 28.59
+MAT4064 45.59
+MAT4065 49.26
+MAT4066 53.42
+MAT4067 33.99
+MAT4070 39.17
+MAT4071 41.41
+MAT4072 34.48
+MAT4075 27.83
+MAT4076 24.23
+MAT4077 20.64
+MAT4079 21.31
+MAT4080 31.91
+MAT4081 21.19
+MAT4082 24.25
+MAT4083 41.53
+MAT4084 29.66
+MAT4085 22.18
+MAT4086 80.02
+MAT4087 84.71
+MAT4088 60.57
+MAT4089 38.43
+MAT4090 16.38
+MAT4091 13.19
+MAT4092 36.86
+MAT4216 37.02
+MAT4217 50.92
+MAT4218 40.66
+MAT4219 27.27
+MAT4220 58.05
+
+
+############################################################
+ GRADO 7
+############################################################
+
+--- LENGUA ---
+Participación: 14449 registrados | 14134 completos (97.8%)
+Total de ítems: 30
+
+1. ESTADÍSTICAS DESCRIPTIVAS:
+Materia N (100%)  Media  Mediana   DS  Mínimo  Máximo  Simetría  Curtosis
+ Lengua   14,134  11.84     10.0 5.78     0.0    30.0      0.95      0.36
+
+2. DISTRIBUCIÓN POR QUINTILES:
+Materia  Quintil       Rango Número Estudiantes Porcentaje (%)
+ Lengua        1   0.0 - 7.0              2,827          20.0%
+ Lengua        2   7.0 - 9.0              2,827          20.0%
+ Lengua        3  9.0 - 12.0              2,826          20.0%
+ Lengua        4 12.0 - 16.0              2,827          20.0%
+ Lengua        5 16.0 - 30.0              2,827          20.0%
+
+3. PORCENTAJE DE ACIERTOS POR ÍTEM (%):
+   Item   Pct
+LEC3270 44.56
+LEC3271 26.37
+LEC3272 32.57
+LEC3273 49.29
+LEC3274 33.86
+LEC3275 46.24
+LEC3276 23.06
+LEC3277 42.06
+LEC3278 32.52
+LEC3279 40.67
+LEC3280 50.17
+LEC3281 46.51
+LEC3282 36.80
+LEC3283 37.49
+LEC3284 34.06
+LEC3285 42.05
+LEC3286 38.65
+LEC3287 45.68
+LEC3288 31.97
+LEC3289 47.98
+LEC3290 44.67
+LEC3291 28.35
+LEC3292 37.14
+LEC3293 34.09
+LEC3294 44.16
+LEC3295 55.53
+LEC3296 41.69
+LEC3297 32.06
+LEC3298 37.62
+LEC3299 46.50
+
+
+--- MATEMÁTICA ---
+Participación: 14693 registrados | 14471 completos (98.5%)
+Total de ítems: 30
+
+1. ESTADÍSTICAS DESCRIPTIVAS:
+   Materia N (100%)  Media  Mediana   DS  Mínimo  Máximo  Simetría  Curtosis
+Matemática   14,471  12.65     11.0 5.47     0.0    30.0       1.1      0.79
+
+2. DISTRIBUCIÓN POR QUINTILES:
+   Materia  Quintil       Rango Número Estudiantes Porcentaje (%)
+Matemática        1   0.0 - 8.0              2,895          20.0%
+Matemática        2  8.0 - 10.0              2,894          20.0%
+Matemática        3 10.0 - 12.0              2,894          20.0%
+Matemática        4 12.0 - 16.0              2,894          20.0%
+Matemática        5 16.0 - 30.0              2,894          20.0%
+
+3. PORCENTAJE DE ACIERTOS POR ÍTEM (%):
+   Item   Pct
+MAT4093 33.26
+MAT4094 46.91
+MAT4095 32.62
+MAT4096 43.28
+MAT4097 41.32
+MAT4098 37.27
+MAT4099 27.82
+MAT4100 54.64
+MAT4101 47.59
+MAT4102 43.07
+MAT4103 28.61
+MAT4104 30.55
+MAT4105 35.75
+MAT4106 50.02
+MAT4107 23.73
+MAT4108 56.36
+MAT4109 41.95
+MAT4110 30.08
+MAT4111 44.87
+MAT4112 54.31
+MAT4113 36.33
+MAT4117 62.55
+MAT4118 87.52
+MAT4120 34.21
+MAT4121 60.76
+MAT4221 34.23
+MAT4222 30.49
+MAT4223 39.48
+MAT4224 35.57
+MAT4225 39.56
+
+
+############################################################
+ GRADO 8
+############################################################
+
+--- LENGUA ---
+Participación: 14179 registrados | 13946 completos (98.4%)
+Total de ítems: 30
+
+1. ESTADÍSTICAS DESCRIPTIVAS:
+Materia N (100%)  Media  Mediana   DS  Mínimo  Máximo  Simetría  Curtosis
+ Lengua   13,946   12.9     12.0 6.02     0.0    30.0      0.76     -0.07
+
+2. DISTRIBUCIÓN POR QUINTILES:
+Materia  Quintil       Rango Número Estudiantes Porcentaje (%)
+ Lengua        1   0.0 - 8.0              2,790          20.0%
+ Lengua        2  8.0 - 10.0              2,789          20.0%
+ Lengua        3 10.0 - 13.0              2,789          20.0%
+ Lengua        4 13.0 - 18.0              2,789          20.0%
+ Lengua        5 18.0 - 30.0              2,789          20.0%
+
+3. PORCENTAJE DE ACIERTOS POR ÍTEM (%):
+   Item   Pct
+LEC3300 51.25
+LEC3301 41.88
+LEC3302 45.75
+LEC3303 36.14
+LEC3304 39.42
+LEC3305 52.45
+LEC3306 62.48
+LEC3307 43.63
+LEC3308 42.19
+LEC3309 43.78
+LEC3310 47.33
+LEC3311 57.56
+LEC3312 26.88
+LEC3313 65.99
+LEC3314 53.79
+LEC3315 33.68
+LEC3316 27.45
+LEC3317 43.98
+LEC3318 62.04
+LEC3319 39.36
+LEC3320 34.49
+LEC3321 48.20
+LEC3322 31.82
+LEC3323 32.79
+LEC3324 28.93
+LEC3325 41.01
+LEC3326 31.78
+LEC3327 40.10
+LEC3329 39.50
+LEC3330 44.33
+
+
+--- MATEMÁTICA ---
+Participación: 14358 registrados | 14144 completos (98.5%)
+Total de ítems: 30
+
+1. ESTADÍSTICAS DESCRIPTIVAS:
+   Materia N (100%)  Media  Mediana   DS  Mínimo  Máximo  Simetría  Curtosis
+Matemática   14,144  11.82     10.0 6.28     0.0    30.0      1.08      0.33
+
+2. DISTRIBUCIÓN POR QUINTILES:
+   Materia  Quintil       Rango Número Estudiantes Porcentaje (%)
+Matemática        1   0.0 - 7.0              2,829          20.0%
+Matemática        2   7.0 - 9.0              2,829          20.0%
+Matemática        3  9.0 - 11.0              2,828          20.0%
+Matemática        4 11.0 - 16.0              2,829          20.0%
+Matemática        5 16.0 - 30.0              2,829          20.0%
+
+3. PORCENTAJE DE ACIERTOS POR ÍTEM (%):
+   Item   Pct
+MAT4122 46.48
+MAT4123 37.01
+MAT4124 38.62
+MAT4125 42.85
+MAT4126 46.78
+MAT4127 36.88
+MAT4128 37.52
+MAT4129 43.81
+MAT4130 30.64
+MAT4131 45.40
+MAT4132 33.19
+MAT4133 37.83
+MAT4134 44.58
+MAT4135 44.53
+MAT4136 35.49
+MAT4137 37.69
+MAT4138 39.58
+MAT4139 41.02
+MAT4140 36.79
+MAT4141 35.71
+MAT4142 32.85
+MAT4143 21.97
+MAT4144 48.27
+MAT4145 43.10
+MAT4146 49.72
+MAT4147 36.26
+MAT4148 43.82
+MAT4149 42.06
+MAT4150 37.92
+MAT4151 33.76
+
+
+############################################################
+ GRADO 9
+############################################################
+
+--- LENGUA ---
+Participación: 13050 registrados | 12929 completos (99.1%)
+Total de ítems: 30
+
+1. ESTADÍSTICAS DESCRIPTIVAS:
+Materia N (100%)  Media  Mediana   DS  Mínimo  Máximo  Simetría  Curtosis
+ Lengua   12,929  14.11     13.0 6.63     0.0    30.0      0.55     -0.68
+
+2. DISTRIBUCIÓN POR QUINTILES:
+Materia  Quintil       Rango Número Estudiantes Porcentaje (%)
+ Lengua        1   0.0 - 8.0              2,586          20.0%
+ Lengua        2  8.0 - 11.0              2,586          20.0%
+ Lengua        3 11.0 - 15.0              2,585          20.0%
+ Lengua        4 15.0 - 21.0              2,586          20.0%
+ Lengua        5 21.0 - 30.0              2,586          20.0%
+
+3. PORCENTAJE DE ACIERTOS POR ÍTEM (%):
+   Item   Pct
+LEC3331 46.57
+LEC3332 49.32
+LEC3333 34.40
+LEC3334 42.63
+LEC3335 56.16
+LEC3336 51.33
+LEC3337 57.10
+LEC3338 51.79
+LEC3339 44.03
+LEC3340 41.27
+LEC3341 46.53
+LEC3342 38.34
+LEC3343 44.96
+LEC3344 48.64
+LEC3345 49.20
+LEC3346 33.85
+LEC3347 52.91
+LEC3348 34.59
+LEC3349 58.84
+LEC3350 58.29
+LEC3351 55.34
+LEC3352 50.67
+LEC3353 43.57
+LEC3354 41.17
+LEC3355 50.93
+LEC3356 51.41
+LEC3357 53.31
+LEC3358 52.04
+LEC3359 30.55
+LEC3360 40.88
+
+
+--- MATEMÁTICA ---
+Participación: 13179 registrados | 12929 completos (98.1%)
+Total de ítems: 30
+
+1. ESTADÍSTICAS DESCRIPTIVAS:
+   Materia N (100%)  Media  Mediana   DS  Mínimo  Máximo  Simetría  Curtosis
+Matemática   12,929  11.97     10.0 6.81     0.0    30.0      0.92      -0.2
+
+2. DISTRIBUCIÓN POR QUINTILES:
+   Materia  Quintil       Rango Número Estudiantes Porcentaje (%)
+Matemática        1   0.0 - 6.0              2,586          20.0%
+Matemática        2   6.0 - 9.0              2,586          20.0%
+Matemática        3  9.0 - 11.0              2,585          20.0%
+Matemática        4 11.0 - 18.0              2,586          20.0%
+Matemática        5 18.0 - 30.0              2,586          20.0%
+
+3. PORCENTAJE DE ACIERTOS POR ÍTEM (%):
+   Item   Pct
+MAT4153 39.46
+MAT4154 38.69
+MAT4156 47.20
+MAT4157 48.32
+MAT4158 34.27
+MAT4159 52.83
+MAT4160 36.67
+MAT4161 42.87
+MAT4162 38.49
+MAT4164 33.68
+MAT4163 38.76
+MAT4165 40.43
+MAT4166 48.56
+MAT4167 50.63
+MAT4168 20.92
+MAT4169 42.57
+MAT4170 44.83
+MAT4171 40.89
+MAT4172 51.66
+MAT4173 44.61
+MAT4174 55.46
+MAT4175 32.94
+MAT4176 36.98
+MAT4177 34.95
+MAT4178 39.11
+MAT4262 37.06
+MAT4263 42.42
+MAT4264 25.83
+MAT4265 36.28
+MAT4266 19.69
+
+
+############################################################
+ GRADO 10
+############################################################
+
+--- LENGUA ---
+Participación: 11612 registrados | 11462 completos (98.7%)
+Total de ítems: 30
+
+1. ESTADÍSTICAS DESCRIPTIVAS:
+Materia N (100%)  Media  Mediana   DS  Mínimo  Máximo  Simetría  Curtosis
+ Lengua   11,462  12.79     11.0 6.02     0.0    29.0      0.68     -0.46
+
+2. DISTRIBUCIÓN POR QUINTILES:
+Materia  Quintil       Rango Número Estudiantes Porcentaje (%)
+ Lengua        1   0.0 - 8.0              2,293          20.0%
+ Lengua        2  8.0 - 10.0              2,292          20.0%
+ Lengua        3 10.0 - 13.0              2,292          20.0%
+ Lengua        4 13.0 - 18.0              2,292          20.0%
+ Lengua        5 18.0 - 29.0              2,293          20.0%
+
+3. PORCENTAJE DE ACIERTOS POR ÍTEM (%):
+   Item   Pct
+LEC3361 40.18
+LEC3362 39.82
+LEC3363 41.50
+LEC3364 51.74
+LEC3365 36.49
+LEC3366 19.46
+LEC3367 33.69
+LEC3368 45.54
+LEC3369 33.30
+LEC3370 45.29
+LEC3371 49.50
+LEC3372 48.31
+LEC3373 42.68
+LEC3374 42.89
+LEC3375 31.13
+LEC3376 57.52
+LEC3377 32.77
+LEC3378 28.35
+LEC3379 39.16
+LEC3380 59.53
+LEC3381 55.79
+LEC3382 49.61
+LEC3383 54.03
+LEC3384 45.57
+LEC3385 32.18
+LEC3386 50.30
+LEC3387 39.19
+LEC3388 42.24
+LEC3389 43.21
+LEC3390 48.10
+
+
+--- MATEMÁTICA ---
+Participación: 11753 registrados | 11559 completos (98.3%)
+Total de ítems: 30
+
+1. ESTADÍSTICAS DESCRIPTIVAS:
+   Materia N (100%)  Media  Mediana   DS  Mínimo  Máximo  Simetría  Curtosis
+Matemática   11,559  10.68      9.0 5.52     0.0    26.0      0.85     -0.21
+
+2. DISTRIBUCIÓN POR QUINTILES:
+   Materia  Quintil       Rango Número Estudiantes Porcentaje (%)
+Matemática        1   0.0 - 6.0              2,312          20.0%
+Matemática        2   6.0 - 8.0              2,312          20.0%
+Matemática        3  8.0 - 10.0              2,311          20.0%
+Matemática        4 10.0 - 16.0              2,312          20.0%
+Matemática        5 16.0 - 26.0              2,312          20.0%
+
+3. PORCENTAJE DE ACIERTOS POR ÍTEM (%):
+   Item   Pct
+MAT4179 38.08
+MAT4180 36.40
+MAT4181 42.13
+MAT4182 52.44
+MAT4185 39.49
+MAT4186 38.26
+MAT4187 40.36
+MAT4188 34.08
+MAT4189 41.13
+MAT4190 33.90
+MAT4191 36.59
+MAT4194 28.33
+MAT4195 34.53
+MAT4196 30.55
+MAT4197 43.73
+MAT4202 23.24
+MAT4198 25.34
+MAT4199 17.50
+MAT4203 44.46
+MAT4200  9.75
+MAT4204 43.42
+MAT4205 33.91
+MAT4207 47.60
+MAT4208 19.15
+MAT4209 45.00
+MAT4215 19.63
+MAT4211 39.29
+MAT4212 51.97
+MAT4213 33.87
+MAT4214 43.41
+
+
+############################################################
+ GRADO 11
+############################################################
+
+--- LENGUA ---
+Participación: 9696 registrados | 9607 completos (99.1%)
+Total de ítems: 30
+
+1. ESTADÍSTICAS DESCRIPTIVAS:
+Materia N (100%)  Media  Mediana   DS  Mínimo  Máximo  Simetría  Curtosis
+ Lengua    9,607  15.38     15.0 6.23     1.0    30.0       0.3     -0.72
+
+2. DISTRIBUCIÓN POR QUINTILES:
+Materia  Quintil       Rango Número Estudiantes Porcentaje (%)
+ Lengua        1  1.0 - 10.0              1,922          20.0%
+ Lengua        2 10.0 - 13.0              1,921          20.0%
+ Lengua        3 13.0 - 17.0              1,921          20.0%
+ Lengua        4 17.0 - 21.0              1,921          20.0%
+ Lengua        5 21.0 - 30.0              1,922          20.0%
+
+3. PORCENTAJE DE ACIERTOS POR ÍTEM (%):
+   Item   Pct
+LEC3391 50.24
+LEC3392 63.94
+LEC3393 36.47
+LEC3394 60.47
+LEC3395 48.88
+LEC3396 38.56
+LEC3397 40.36
+LEC3398 49.31
+LEC3399 49.43
+LEC3400 47.79
+LEC3401 69.95
+LEC3402 66.73
+LEC3403 65.93
+LEC3404 48.37
+LEC3405 48.28
+LEC3406 25.18
+LEC3407 63.89
+LEC3408 51.40
+LEC3409 61.62
+LEC3410 55.57
+LEC3411 67.67
+LEC3412 30.95
+LEC3413 50.48
+LEC3414 58.70
+LEC3415 32.15
+LEC3416 55.11
+LEC3417 62.42
+LEC3418 52.65
+LEC3419 43.06
+LEC3420 42.16
+
+
+--- MATEMÁTICA ---
+Participación: 9752 registrados | 9612 completos (98.6%)
+Total de ítems: 30
+
+1. ESTADÍSTICAS DESCRIPTIVAS:
+   Materia N (100%)  Media  Mediana   DS  Mínimo  Máximo  Simetría  Curtosis
+Matemática    9,612  12.96     11.0 6.38     0.0    29.0      0.55     -0.83
+
+2. DISTRIBUCIÓN POR QUINTILES:
+   Materia  Quintil       Rango Número Estudiantes Porcentaje (%)
+Matemática        1   0.0 - 7.0              1,923          20.0%
+Matemática        2  7.0 - 10.0              1,922          20.0%
+Matemática        3 10.0 - 13.0              1,922          20.0%
+Matemática        4 13.0 - 20.0              1,922          20.0%
+Matemática        5 20.0 - 29.0              1,923          20.0%
+
+3. PORCENTAJE DE ACIERTOS POR ÍTEM (%):
+   Item   Pct
+MAT4226 52.03
+MAT4227 34.95
+MAT4228 19.68
+MAT4229 39.98
+MAT4230 41.97
+MAT4231 39.26
+MAT4232 50.24
+MAT4233 53.58
+MAT4234 47.38
+MAT4235 55.68
+MAT4236 53.78
+MAT4237 50.89
+MAT4238 42.23
+MAT4239 26.99
+MAT4240 50.26
+MAT4241 55.12
+MAT4242 42.81
+MAT4243 34.39
+MAT4246 48.28
+MAT4251 36.08
+MAT4252 42.18
+MAT4253 25.89
+MAT4254 42.22
+MAT4255 45.15
+MAT4256 37.70
+MAT4257 36.68
+MAT4258 42.85
+MAT4259 49.93
+MAT4260 47.97
+MAT4261 49.57
+
